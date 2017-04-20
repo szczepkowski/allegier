@@ -2,6 +2,8 @@
 
 Shop application.
 
+Basic shop with product list, cart, order, account.
+
 Java 8 
 AngularJS
 
